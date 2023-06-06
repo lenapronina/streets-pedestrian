@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.00a6eb07.css",
-    "main.js": "/static/js/main.9e1fefc1.js",
-    "static/media/start-screen.jpg": "/static/media/start-screen.76b296ffc4be347dd3b7.jpg",
-    "index.html": "/index.html",
-    "main.00a6eb07.css.map": "/static/css/main.00a6eb07.css.map",
-    "main.9e1fefc1.js.map": "/static/js/main.9e1fefc1.js.map"
+    "main.css": "/streets-pedestrian/static/css/main.b2e0dfe6.css",
+    "main.js": "/streets-pedestrian/static/js/main.178107f2.js",
+    "static/media/start-screen.jpg": "/streets-pedestrian/static/media/start-screen.76b296ffc4be347dd3b7.jpg",
+    "index.html": "/streets-pedestrian/index.html",
+    "main.b2e0dfe6.css.map": "/streets-pedestrian/static/css/main.b2e0dfe6.css.map",
+    "main.178107f2.js.map": "/streets-pedestrian/static/js/main.178107f2.js.map"
   },
   "entrypoints": [
-    "static/css/main.00a6eb07.css",
-    "static/js/main.9e1fefc1.js"
+    "static/css/main.b2e0dfe6.css",
+    "static/js/main.178107f2.js"
   ]
 }
