@@ -1,14 +1,18 @@
 .header {
+  margin-top: 130px;
+  margin-bottom: 60px;
   display: block;
   width: 100%;
-  height: 300px;
-  background: linear-gradient(
+  height: fit-content;
+  /* background-color: rgb(88, 88, 239); */
+  /* height: 300px; */
+  /* background: linear-gradient(
           rgba(0, 0, 0, 0.7), 
           rgba(0, 0, 0, 0.7)
         ),url('../../img/start-screen.jpg');
   background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
+  background-position: top center;
+  background-size: cover; */
 }
 
 .block {
@@ -19,4 +23,20 @@
 
 .mainHeading {
   margin: 0;
+  margin-top: 30px;
+  
+  /* margin-left: 20px; */
+  font-size: 52px;
+  /* color: #fff; */
+}
+
+.pHeader {
+  font-weight: 300;
+    font-size: 25px;
+    width: 85%;
+}
+
+.link {
+  text-decoration: none;
+  color: blue;
 }

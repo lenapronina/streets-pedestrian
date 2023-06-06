@@ -1,7 +1,6 @@
 .App {
   margin: 0 auto;
   width: 1024px;
-  background-color: aqua;
   margin-bottom: 30px;
 }
 
@@ -16,16 +15,40 @@
 }
 
 .map-label {
+  display: block;
   position: absolute;
   top: 10px;
   left: 10px;
   z-index: 2;
   margin: 0;
   padding: 0;
-  font-size: 20px;
   background-color: white;
   font-weight: 600;
   padding: 5px;
+  text-decoration: none;
+  color: #000;
+}
+
+.mapboxgl-compare {
+  background-color: #8393A7 !important;
+}
+.compare-swiper-vertical {
+  background-color: #8393A7 !important;
+}
+.images {
+  width: 70%;
+  margin: auto;
+  display: flex;
+  justify-content: space-around;
+}
+
+.image {
+  width: 333px;
+}
+
+figcaption {
+  color:blue;
+  font-weight: 400;
 }
 
 .map-label:last-of-type {
@@ -33,9 +56,17 @@
   right: 10px;
 }
 
+.h2 {
+  font-size: 30px;
+}
+
 @media (max-width: 760px) {
   .App  {
     width: 600px;
+  }
+
+  .image  {
+    width: 200px
   }
 }
 
@@ -46,5 +77,9 @@
 
   #comparison-container {
     height: 300px;
+  }
+
+  .image  {
+    width: 100px
   }
 }
