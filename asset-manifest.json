@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/streets-pedestrian/static/css/main.25badf9f.css",
-    "main.js": "/streets-pedestrian/static/js/main.a05fefdc.js",
+    "main.css": "/streets-pedestrian/static/css/main.0dcf1be3.css",
+    "main.js": "/streets-pedestrian/static/js/main.8db986c1.js",
     "static/js/483.30b57c95.chunk.js": "/streets-pedestrian/static/js/483.30b57c95.chunk.js",
     "static/media/full-shot-man-wheelchair-outdoors.jpg": "/streets-pedestrian/static/media/full-shot-man-wheelchair-outdoors.aa0db1f303a9d36db32e.jpg",
     "static/media/tokyo-people-traveling-street.jpg": "/streets-pedestrian/static/media/tokyo-people-traveling-street.b89b160c32f1442bcaf3.jpg",
@@ -15,12 +15,12 @@
     "static/media/building-ped.png": "/streets-pedestrian/static/media/building-ped.bb0f723a4ed5dea693ad.png",
     "static/media/builing-streets.png": "/streets-pedestrian/static/media/builing-streets.54b743f9a951d201ae65.png",
     "index.html": "/streets-pedestrian/index.html",
-    "main.25badf9f.css.map": "/streets-pedestrian/static/css/main.25badf9f.css.map",
-    "main.a05fefdc.js.map": "/streets-pedestrian/static/js/main.a05fefdc.js.map",
+    "main.0dcf1be3.css.map": "/streets-pedestrian/static/css/main.0dcf1be3.css.map",
+    "main.8db986c1.js.map": "/streets-pedestrian/static/js/main.8db986c1.js.map",
     "483.30b57c95.chunk.js.map": "/streets-pedestrian/static/js/483.30b57c95.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.25badf9f.css",
-    "static/js/main.a05fefdc.js"
+    "static/css/main.0dcf1be3.css",
+    "static/js/main.8db986c1.js"
   ]
 }
