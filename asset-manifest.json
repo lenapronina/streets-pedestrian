@@ -1,14 +1,16 @@
 {
   "files": {
     "main.css": "/streets-pedestrian/static/css/main.6a7b1fa1.css",
-    "main.js": "/streets-pedestrian/static/js/main.0350fc7a.js",
+    "main.js": "/streets-pedestrian/static/js/main.104131c2.js",
+    "static/js/483.30b57c95.chunk.js": "/streets-pedestrian/static/js/483.30b57c95.chunk.js",
     "static/media/start-screen.jpg": "/streets-pedestrian/static/media/start-screen.76b296ffc4be347dd3b7.jpg",
     "index.html": "/streets-pedestrian/index.html",
     "main.6a7b1fa1.css.map": "/streets-pedestrian/static/css/main.6a7b1fa1.css.map",
-    "main.0350fc7a.js.map": "/streets-pedestrian/static/js/main.0350fc7a.js.map"
+    "main.104131c2.js.map": "/streets-pedestrian/static/js/main.104131c2.js.map",
+    "483.30b57c95.chunk.js.map": "/streets-pedestrian/static/js/483.30b57c95.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6a7b1fa1.css",
-    "static/js/main.0350fc7a.js"
+    "static/js/main.104131c2.js"
   ]
 }
