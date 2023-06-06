@@ -1,0 +1,22 @@
+.header {
+  display: block;
+  width: 100%;
+  height: 300px;
+  background: linear-gradient(
+          rgba(0, 0, 0, 0.7), 
+          rgba(0, 0, 0, 0.7)
+        ),url('../../img/start-screen.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.block {
+  background-color: white;
+  height: 300px;
+  width: 30px;
+}
+
+.mainHeading {
+  margin: 0;
+}
